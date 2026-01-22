@@ -1,4 +1,4 @@
-raj = input('Question :')
+raju = input('Question :')
 import random
 num= random.randint(1,9)
 if num == 1:
@@ -18,4 +18,5 @@ elif num ==7:
 elif num ==8:
  print('Outlook not so good.')
 elif num==9:
+
   print('very doubtful.') 
