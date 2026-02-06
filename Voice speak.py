@@ -1,4 +1,4 @@
-# first go to terminal and write pip install pyttsx3 
+# first go to terminal and write ( pip install pyttsx3 )
 #after install paste this code and run  
 import pyttsx3
 engine = pyttsx3.init()
@@ -7,3 +7,4 @@ engine = pyttsx3.init()
 
 engine.say('how are you') 
 engine.runAndWait()
+
